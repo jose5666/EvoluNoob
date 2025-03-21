@@ -1,3 +1,5 @@
 # EvoluNoob
 
-[!Logo EvoluNoob](https://github.com/jasonchampagne/EvoluNoob/blob/main/logo-mini.png)
+<p align="center">
+	<img src="https://github.com/jasonchampagne/EvoluNoob/blob/main/logo-mini.png" alt=""><br>
+</p>
