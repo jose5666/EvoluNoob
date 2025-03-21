@@ -1,3 +1,3 @@
 # EvoluNoob
 
-À venir...
+[!Logo EvoluNoob](./logo.mini.png)
